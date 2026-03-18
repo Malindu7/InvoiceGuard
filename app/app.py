@@ -214,7 +214,7 @@ if uploaded_file is not None:
 
 else:
     # Placeholder prompt
-    st.info('👆 Upload an invoice image above to get started.', icon='📂')
+    st.info('Upload an invoice image above to get started.', icon='📂')
 
     # Demo class cards
     st.markdown('#### Supported Invoice Categories')

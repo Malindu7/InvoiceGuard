@@ -107,6 +107,4 @@ Each image produces:
 | Member 4 | Evaluation Analyst | `04_evaluation.ipynb` |
 | Member 5 | Integration Engineer | `app/app.py` |
 =======
-# InvoiceGuard
-A Deep Learning System for Classifying Business Invoices
->>>>>>> dd0fceed0476d5142decb88d477592d5ef9f30b7
+

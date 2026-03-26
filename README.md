@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧾 InvoiceGuard
 ### AI-Powered Invoice Classification System
 
